@@ -30,7 +30,7 @@ llvm-openmp=19.1.6=ha54dae1_0
 matplotlib-inline=0.1.7=pyhd8ed1ab_1
 ncurses=6.4=hcec6c5f_0
 nest-asyncio=1.6.0=pyhd8ed1ab_1
-numpy=1.24.0
+numpy==1.23.5
 openjdk=11.0.13=h8346a28_0
 openssl=3.4.0=hc426f3f_1
 packaging=24.2=pyhd8ed1ab_2
