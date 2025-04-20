@@ -1,0 +1,19 @@
+name: wids-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas>=1.5.3
+  - numpy>=1.24.0
+  - scipy>=1.8.1
+  - scikit-learn>=1.2.2
+  - ipykernel
+  - jupyter
+  - pip
+  - pip:
+    - debugpy>=1.8.11
+    - psutil>=6.1.1
+    - tornado>=6.4.2
+    - xgboost>=1.7.0
+    - h2o>=1.23.0
